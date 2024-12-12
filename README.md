@@ -24,7 +24,7 @@ Extensive experiments on Occ3D-nuScenes benchmark demonstrate the superiority of
 ## Model Zoo
 
 
-* Model weights will be released later.
+* [Model weights](https://drive.google.com/file/d/1c-44e_jpu8FDF-pQApMzqaOsexgtVjF2/view?usp=sharing)
 
 ## Acknowledgments
 
