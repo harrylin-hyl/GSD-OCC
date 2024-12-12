@@ -1,7 +1,6 @@
 # Achieving Speed Accuracy Balance in Vision based 3D Occupancy Prediction via Geometric Semantic Disentanglement (AAAI 2025)
-### Yulin He, Wei Chen, Siqi Wang, Tianci Xun, Yusong Tan
-
-
+- Authors: Yulin He, Wei Chen, Siqi Wang, Tianci Xun, Yusong Tan
+- [Paper in arXiv](https://arxiv.org/abs/2407.13155)
 ## Framework
 ![Framework](./figs/framework.jpg)
 GSD-OCC is a fast and accurate Vision-based 3D Occupancy Prediction method, which decouples the learning of geometry and semantics by model design and learning strategy two perspectives:
